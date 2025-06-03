@@ -4,7 +4,10 @@
 
 ### Lending Club Case Study
  Used the concepts of EDA to decipher which types of customers default on a loan
- 
+
+ <img width="974" alt="image" src="https://github.com/user-attachments/assets/df1de603-a09b-4e74-84fa-80ddc1571700" />
+
+
  [![View on GitHub](https://github.com/PiyaP-lab/MachineLearning/blob/test_branch/LendingClubCaseStudy/PiyaliPodder.ipynb)
 
 ## Machine learning
@@ -12,13 +15,18 @@
 ### Bike Sharing Model
 
 Build a multiple linear regression model for the prediction of demand for shared bike
+<img width="567" alt="image" src="https://github.com/user-attachments/assets/add1a5dd-259d-4fa7-be8c-0b3e3e3f33a0" />
+
 
 ### Housing Model
 Build a regression model using regularisation in order to predict the actual value of the prospective properties and decide whether to invest in them or not.
+<img width="772" alt="image" src="https://github.com/user-attachments/assets/d4c58c3f-e38e-43ce-9d60-76e0a0cd0260" />
+
 
 ### Feature Generation using RAG 
 Built a secure RAG pipeline using in-house OpenAI Langchain stack and Streamlit to auto-generate Gherkin test cases from Squash API data.
 
+<img width="938" alt="image" src="https://github.com/user-attachments/assets/fb79655a-26fe-4c47-b57e-b85c7f3e9c80" />
 
 
 # Automation Testing Portfolio
